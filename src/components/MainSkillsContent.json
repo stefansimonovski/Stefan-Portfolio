@@ -1,0 +1,85 @@
+[
+  {
+    "type": "frontend",
+    "technologies": [
+      {
+        "title": "Vue",
+        "image": "devicon-vuejs-plain"
+      },
+      {
+        "title": "React",
+        "image": "devicon-react-original"
+      },
+      {
+        "title": "Javascript (ES6)",
+        "image": "devicon-javascript-plain"
+      },
+      {
+        "title": "HTML5",
+        "image": "devicon-html5-plain"
+      },
+      {
+        "title": "CSS3",
+        "image": "devicon-css3-plain"
+      },
+      {
+        "title": "Tailwind",
+        "image": "devicon-tailwindcss-plain"
+      },
+      {
+        "title": "Bootstrap",
+        "image": "devicon-bootstrap-plain"
+      }
+    ]
+  },
+  {
+    "type": "backend",
+    "technologies": [
+      {
+        "title": "NodeJS",
+        "image": "devicon-nodejs-plain"
+      },
+      {
+        "title": "MongoDB",
+        "image": "devicon-mongodb-plain"
+      },
+      {
+        "title": "MySQL",
+        "image": "devicon-mysql-plain"
+      }
+    ]
+  },
+  {
+    "type": "tools",
+    "technologies": [
+      {
+        "title": "Markdown",
+        "image": "devicon-markdown-original"
+      },
+      {
+        "title": "Visual Studio Code",
+        "image": "devicon-vscode-plain"
+      },
+      {
+        "title": "Figma",
+        "image": "devicon-figma-plain"
+      },
+      {
+        "title": "Eslint",
+        "image": "devicon-eslint-original"
+      },
+      {
+        "title": "Babel",
+        "image": "devicon-babel-plain"
+      },
+      {
+        "title": "Webpack",
+        "image": "devicon-webpack-plain"
+      },
+      {
+        "title": "Git",
+        "image": "devicon-git-plain"
+      }
+    ]
+  }
+]

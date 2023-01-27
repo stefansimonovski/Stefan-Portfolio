@@ -1,0 +1,18 @@
+[
+  {
+    "Image": "./assets/images/work1.png",
+    "Title": "Memory Game",
+    "Description": "This is my first project made with HTML5, CSS3 and JavaScript",
+    "Sidenote": "",
+    "Github": "https://github.com/stefansimonovski/stefansimonovski.github.io",
+    "Tags": ["HTML5", "CSS3", "JavaScript"]
+  },
+  {
+    "Image": "./assets/images/work2.png",
+    "Title": "Weather App",
+    "Description": "Made with NodeJs, VueJs and Vuetify",
+    "Sidenote": "",
+    "Github": "https://github.com/stefansimonovski/weather-app",
+    "Tags": ["NodeJs", "VueJs", "Vuetify", "API"]
+  }
+]
