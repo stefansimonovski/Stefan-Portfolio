@@ -2,17 +2,28 @@
   {
     "Image": "./assets/images/work1.png",
     "Title": "Memory Game",
-    "Description": "This is my first project made with HTML5, CSS3 and JavaScript",
+    "Description": "This is a simple memory game that I have made while i was styding coding. It is based on HTML, CSS, JavaScript and JQuery nothing fancy",
     "Sidenote": "",
-    "Github": "https://github.com/stefansimonovski/stefansimonovski.github.io",
-    "Tags": ["HTML5", "CSS3", "JavaScript"]
+    "LivePreviewLink": "./projects/memory-game/index.html",
+    "Github": "https://github.com/stefansimonovski/memory-game",
+    "Tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "JQuery"
+    ]
   },
   {
     "Image": "./assets/images/work2.png",
     "Title": "Weather App",
-    "Description": "Made with NodeJs, VueJs and Vuetify",
+    "Description": "My first webapp that fetches weather information for five cities from OpenWeatherMap API. Made with VueJs and Vuetify",
     "Sidenote": "",
+    "LivePreviewLink": "./projects/weather-app/index.html",
     "Github": "https://github.com/stefansimonovski/weather-app",
-    "Tags": ["NodeJs", "VueJs", "Vuetify", "API"]
+    "Tags": [
+      "VueJs",
+      "Vuetify",
+      "API"
+    ]
   }
 ]

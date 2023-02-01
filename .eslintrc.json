@@ -19,7 +19,6 @@
     "semi": ["error", "never"],
     "no-multi-spaces": ["error"],
     "no-empty": ["error"],
-    "indent": ["error", 2],
     "quotes": ["error", "single"],
     "comma-spacing": [
       "error",

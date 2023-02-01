@@ -55,12 +55,15 @@
           >
             {{ value.Sidenote }}
           </p>
+          <p class="decoration-2 underline" v-if="value.LivePreviewLink !== ''">
+            <a :href="value.LivePreviewLink" target="_blank">View Demo</a>
+          </p>
           <br />
-          <strong class="decoration-2 underline"
-            ><a :href="value.Github" target="_blank"
+          <p class="decoration-2 underline">
+            <a :href="value.Github" target="_blank"
               >View this project on Github</a
             >
-          </strong>
+          </p>
           <div v-if="isInMobile" class="mt-3">
             <br />
             <hr
@@ -110,7 +113,7 @@ export default {
         instance.destroy()
       }
     })
-      .type('Here are a list of my personal projects!')
+      .type('Here is a list of some projects that I have worked on!')
       .go()
 
     if (window.innerWidth < 1536) {

@@ -31,7 +31,7 @@
     </div>
 
     <div
-      class="2xl:hidden flex flex-row py-3 items-center justify-space-between w-full px-4"
+      class="2xl:hidden flex flex-row py-3 items-center justify-between w-full px-4"
     >
       <div>
         <h1 class="text-3xl font-bold sm:-ml-[0px]">
