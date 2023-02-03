@@ -25,5 +25,33 @@
       "Vuetify",
       "API"
     ]
+  },
+  {
+    "Image": "./assets/images/work3.png",
+    "Title": "ECommerce FE",
+    "Description": "This is the frontend part of a simple ecommerce application",
+    "Sidenote": "",
+    "LivePreviewLink": "https://e-commerce-fe.onrender.com/",
+    "Github": "https://github.com/stefansimonovski/e-commerce-fe",
+    "Tags": [
+      "VueJs",
+      "Nuxt",
+      "Vuex",
+      "Stripe"
+    ]
+  },
+  {
+    "Image": "./assets/images/work4.png",
+    "Title": "ECommerce BE",
+    "Description": "This is the backend part of a simple ecommerce application",
+    "Sidenote": "",
+    "LivePreviewLink": "",
+    "Github": "https://github.com/stefansimonovski/e-commerce-be",
+    "Tags": [
+      "NodeJs",
+      "TypeScript",
+      "PostgreSql",
+      "Prisma"
+    ]
   }
 ]
